@@ -1,6 +1,8 @@
 # Bypass
 
-Bypass is a browser extension that allows you to bypass paywall on websites.
+Bypass is a browser extension that allows you to bypass paywall on websites. 
+
+Many websites have paywalls that prevent you from accessing the content. What this extension does is that shows you the cached version of the website without the paywall.
 
 # Example
 
