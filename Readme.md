@@ -1,8 +1,8 @@
 # Bypass
 
-Bypass is a browser extension that allows you to bypass paywall on websites. 
+Bypass is a browser extension that allows you to bypass paywalls on websites.
 
-Many websites have paywalls that prevent you from accessing the content. What this extension does is that shows you the cached version of the website without the paywall.
+Many websites have paywalls that prevent you from accessing the content. What this extension does is show you the cached version of the website without the paywall.
 
 # Example
 
@@ -15,6 +15,11 @@ Many websites have paywalls that prevent you from accessing the content. What th
 The extension uses the [12ft](https://12ft.io/) service to bypass paywall on any website.
 
 Technically, the service is fetching the cached version of the website from Google and then sending it back to the browser. That's it. And its completely legal to do so. Since the website itself opened it to Google Crawlers to cache their premium article.
+
+# Shout-out
+
+- [12ft](https://12ft.io/)
+- [Resize Pixel](https://www.resizepixel.com)
 
 # Author
 
