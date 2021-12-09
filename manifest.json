@@ -1,6 +1,6 @@
 {
-  "name": "Bypass",
-  "description": "Bypass is a browser extension that allows you to bypass paywall on websites.",
+  "name": "Bypass Paywall",
+  "description": "Bypass Paywall is a browser extension that allows you to read content that is behind a paywall on websites or blogs etc",
   "version": "0.0.1",
   "author": "Sagar Chauhan",
   "manifest_version": 3,

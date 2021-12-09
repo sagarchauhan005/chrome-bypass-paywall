@@ -12,7 +12,7 @@ Many websites have paywalls that prevent you from accessing the content. What th
 
 # How it works?
 
-The extension uses the [12ft](https://12ft.io/) service to bypass paywall on any website.
+The extension uses [12ft](https://12ft.io/) service to bypass paywall on any website.
 
 Technically, the service is fetching the cached version of the website from Google and then sending it back to the browser. That's it. And its completely legal to do so. Since the website itself opened it to Google Crawlers to cache their premium article.
 
