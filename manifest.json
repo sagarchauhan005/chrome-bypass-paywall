@@ -3,7 +3,6 @@
   "description": "Bypass is a browser extension that allows you to bypass paywall on websites.",
   "version": "0.0.1",
   "author": "Sagar Chauhan",
-  "keywords": ["Bypass","Paywall remover","Unlock articles","Medium","News","Website","Browser extension","Chrome extension","Firefox extension","Opera extension","Edge extension","Safari extension"],
   "manifest_version": 3,
   "background": {
     "service_worker": "background.js"
