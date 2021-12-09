@@ -8,7 +8,9 @@ Many websites have paywalls that prevent you from accessing the content. What th
 
 ![Imgur](https://i.imgur.com/aN75wjK.gif)
 
-# Installation
+# How to get it?
+
+<a href="https://www.producthunt.com/posts/bypass-paywall?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-bypass-paywall" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=322428&theme=dark" alt="Bypass Paywall - Down with the walls | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 # How it works?
 
